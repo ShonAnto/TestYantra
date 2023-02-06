@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-30T20:18:05 GMT-08:00" name="Default suite" finished-at="2023-01-30T20:19:14 GMT-08:00" duration-ms="69157">
+    <groups>
+    </groups>
+    <test started-at="2023-01-30T20:18:05 GMT-08:00" name="Default test" finished-at="2023-01-30T20:19:14 GMT-08:00" duration-ms="69157">
+      <class name="ty.Demo1">
+        <test-method signature="demo4()[pri:0, instance:ty.Demo1@649bec2e]" started-at="2023-01-30T20:18:05 GMT-08:00" name="demo4" finished-at="2023-01-30T20:19:14 GMT-08:00" duration-ms="69082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo4 -->
+      </class> <!-- ty.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
